@@ -1,0 +1,7 @@
+{
+    "variants":{
+        "": {
+            "model": "linkyourchips:block/copper_conductor_block"
+        }
+    }
+}

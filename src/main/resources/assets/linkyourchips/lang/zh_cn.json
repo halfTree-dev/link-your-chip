@@ -1,0 +1,8 @@
+{
+    "item.linkyourchips.copper_conductor": "铜导体",
+    "item.linkyourchips.copper_conductor_block": "铜导体块",
+    "item.linkyourchips.serial_connector": "串口连接器",
+
+    "block.linkyourchips.copper_conductor_block": "铜导体块",
+    "creativetab.linkyourchips_tab": "Link Your Chips 物品"
+}
