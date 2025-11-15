@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "linkyourchips:block/copper_conductor_block"
-	}
-}

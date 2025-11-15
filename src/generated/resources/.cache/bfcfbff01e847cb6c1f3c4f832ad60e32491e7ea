@@ -1,0 +1,4 @@
+// 1.20.1	2025-11-15T13:22:18.9593598	Tags for minecraft:block mod id linkyourchips
+daee926bbba5c8c3ea04d4f968dd613cae02426f data/linkyourchips/tags/blocks/conductor_blocks.json
+daee926bbba5c8c3ea04d4f968dd613cae02426f data/minecraft/tags/blocks/mineable/pickaxe.json
+daee926bbba5c8c3ea04d4f968dd613cae02426f data/minecraft/tags/blocks/needs_iron_tool.json
