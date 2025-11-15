@@ -23,6 +23,7 @@ public class ModCreativeModeTab {
             .displayItems((parameters, output) -> {
                 output.accept(ModItems.COPPER_CONDUCTOR.get());
                 output.accept(ModItems.SERIAL_CONNECTOR.get());
+                output.accept(ModItems.MULTIMETER.get());
                 output.accept(ModBlocks.COPPER_CONDUCTOR_BLOCK.get());
             })
             .build());

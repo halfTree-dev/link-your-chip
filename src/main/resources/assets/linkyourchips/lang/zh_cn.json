@@ -1,8 +1,17 @@
 {
     "item.linkyourchips.copper_conductor": "铜导体",
     "item.linkyourchips.copper_conductor_block": "铜导体块",
+
     "item.linkyourchips.serial_connector": "串口连接器",
+    "item.linkyourchips.serial_connector.tooltip": "右键使用来扫描设备上的所有串行端口",
+
+    "item.linkyourchips.multimeter": "万用表",
+    "item.linkyourchips.multimeter.tooltip": "右键使用来判断物体是否为导体",
 
     "block.linkyourchips.copper_conductor_block": "铜导体块",
-    "creativetab.linkyourchips_tab": "Link Your Chips 物品"
+
+    "creativetab.linkyourchips_tab": "Link Your Chips 物品",
+
+    "message.linkyourchips.is_conductor": "§a目标是导体",
+    "message.linkyourchips.not_conductor": "§c目标并非导体"
 }

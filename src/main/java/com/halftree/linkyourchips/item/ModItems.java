@@ -1,6 +1,7 @@
 package com.halftree.linkyourchips.item;
 
 import com.halftree.linkyourchips.LinkYourChipsMod;
+import com.halftree.linkyourchips.item.custom.MultimeterItem;
 import com.halftree.linkyourchips.item.custom.SerialConnectorItem;
 
 import net.minecraft.world.item.Item;
@@ -19,6 +20,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> SERIAL_CONNECTOR = ITEMS.register("serial_connector",
         () -> new SerialConnectorItem(new Item.Properties())
+    );
+
+    public static final RegistryObject<Item> MULTIMETER = ITEMS.register("multimeter",
+        () -> new MultimeterItem(new Item.Properties())
     );
 
     public static void register(IEventBus eventBus) {
